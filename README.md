@@ -1,11 +1,18 @@
 # FioDaNavalhaProject
 Integrantes:
 Pedro Otavio Candido de Morais Silva
+
 Samuel Wallace Neves Silca 
+
 Nikholas Raul dos Santos
+
 Vinicius de Jesus Debroi
-Jeiel Gonçalves Siqueira
+
 Vinícius Azevedo Bortolozzo
+
+## Descrição
+
+Projeto focado em uma plataforma de mapeamento de comercios de barbaria em forma de catalogo, ranking das melhores barbearias da região mapeada, area de cadastro e pagina com os catalogos exibindo as barbearias e as respectivas informações.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
@@ -21,7 +28,3 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-## Descrição
-
-Projeto focado em uma plataforma de mapeamento de comercios de barbaria em forma de catalogo, ranking das melhores barbearias da região mapeada, area de cadastro e pagina com os catalogos exibindo as barbearias e as respectivas informações.
