@@ -26,7 +26,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Como acessar
 
-Acesse o link: https://pedrocandiido.github.io/Front-FioDaNavalha-pt2/home
+Acesse o link: https://pedrocandiido.github.io/Front-FioDaNavalha-pt2/
 
 Navegue pela: Home - Sobre e Registre-se
 
