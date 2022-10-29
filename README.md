@@ -15,7 +15,20 @@ Vinícius Azevedo Bortolozzo
 
 Projeto focado em uma plataforma de mapeamento de comercios de barbaria em forma de catalogo, ranking das melhores barbearias da região mapeada, area de cadastro e pagina com os catalogos exibindo as barbearias e as respectivas informações.
 
+## Tecnologia
+
+-Angular
+-Angular Materials
+-Bootstrap
+-Typescript
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+
+## Como acessar
+
+Acesse o link: https://pedrocandiido.github.io/Front-FioDaNavalha-pt2/home
+
+Navegue pela: Home - Sobre e Registre-se
 
 ## Development server - como executar
 Clone o repositório em sua maquina
