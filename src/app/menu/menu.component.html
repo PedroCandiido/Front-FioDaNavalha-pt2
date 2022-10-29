@@ -4,11 +4,10 @@
     <div class="collapse navbar-collapse " id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a routerLink="/home" class="nav-link">Home</a>
+                <a routerLink="/home" routerLinkActive="selected" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
-                <a routerLink="/sobre" routerLinkActive="selected" (click)="goToSobre()">sobre</a><br>
-                <!--<a routerLink="/sobre" class="nav-link">Quem somos?</a>-->
+                <a routerLink="/sobre" routerLinkActive="selected" class="nav-link">Sobre</a>
             </li>
         </ul>
     </div>
@@ -16,7 +15,7 @@
         <a href="/login" class="btn btn-primary enable" tabindex="-1" role="button" aria-disabled="true" style="margin-right: 1em;">Registre-se</a>
     </div>
     <hr>
-    <a routerLink="/sobre" routerLinkActive="selected" (click)="goToSobre()">sobre</a><br>
+    <a routerLink="/sobre" routerLinkActive="selected">sobre</a>
     <a routerLink="/signup" routerLinkActive="selected">Signup</a><br>
     <a routerLink="/master" routerLinkActive="selected">Master</a><br>
     <a routerLink="/home" routerLinkActive="selected">Home</a><br>

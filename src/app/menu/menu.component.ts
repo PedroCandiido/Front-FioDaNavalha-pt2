@@ -6,6 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./menu.component.css']
 })
 export class MenuComponent implements OnInit {
+goToSobre() {
+throw new Error('Method not implemented.');
+}
 
   constructor() { }
 
