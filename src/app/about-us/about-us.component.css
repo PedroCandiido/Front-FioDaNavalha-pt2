@@ -1,0 +1,11 @@
+body{
+    width: 75%;
+    padding: 2em;
+    margin: auto;
+}
+
+img{
+    margin-top: 2em;
+    width: 50em;
+    border-radius: 2em;
+}
